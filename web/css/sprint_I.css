@@ -1,0 +1,33 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.navbar{
+    background-color: #1F1A62;
+    margin-bottom: 20px;
+    color:white;
+}
+
+button{
+    margin: 20px 0;
+}
+
+
+
+/*#id{*/
+/*    width: 20px;*/
+/*}*/
+
+/*#taskName{*/
+/*    width: 100px;*/
+/*}*/
+
+/*#isMade{*/
+/*    width: 50px;*/
+/*}*/
+/*#details{*/
+/*    width: 50px;*/
+/*}*/
+
+
